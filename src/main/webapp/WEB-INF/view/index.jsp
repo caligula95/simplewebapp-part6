@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>${title}</title>
+    <title><c:out value="${title}"></title>
     
 
     <!-- Bootstrap Core CSS -->
